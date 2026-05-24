@@ -1,0 +1,10 @@
+{
+  "name": "RPSU Social Welfare Club",
+  "description": "A professional and modern web platform for the RPSU Social Welfare and Blood Donation Club, featuring an executive committee showcase, live notices, statistics, emergency blood request, and organic/academic shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "Overwrite": true,
+  "TargetFile": "/metadata.json",
+  "toolAction": "Updating metadata.json",
+  "toolSummary": "Updating metadata.json"
+}
